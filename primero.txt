@@ -1,1 +1,2 @@
 Este es el primer documento de texto para meterle en mi proyecto de git.
+Hemos guardado la primera version y modificamos los arxivos existentes,creando nuevas carpetas.
